@@ -1,0 +1,63 @@
+what is limitation of normal variable?
+----------------------------------------
+normal variable can store only one value at a time. if we store another value, previous value will be lost. many times we need to store lot of related values then we have to create many variable. more variables means more complex program and complex program are difficult to understand and change. 
+we must try best to write program easy to understand. to do that we need to declare less variables. 
+
+when we can use array?
+when we need to store many related values of same type, we should use array.
+
+what is array/List?
+--------------
+array is special type of variable in which 
+    we can store multiple values. 
+    each value in array has same name & type 
+    but it has unique position also called index. 
+    1st value in array is at 0th position, 
+    2nd value in array is at 1st position. 
+    it means position start from 0. position of last value is size of array - 1. technically position is called index.  it must be positive integer value. 
+    index can be given directly or using variable's value. we must use variable name and position to access, change value in array
+
+all the value in single array must be same type in c language.
+size of the array must be set at the time of creating array. 
+during execution of program size can not be changed. 
+we can change value at any given position. but we can not add & delete position. 
+
+how to create an array?
+syntax 
+---------------------
+datatype array[size];
+
+example
+int age[5];
+
+how to store/change value in array at 1st position?
+age[0] = 25;
+
+how to store/change value in array at 2nd position?
+age[1] = 50;
+
+how to access/display array
+printf("%d",age[0]);
+
+how to take input from user into array
+scanf("%d",&age[0]);
+
+types of array 
+one dimensional array (1D array)
+    if array has only one dimension then it is called one dimensional array. in short it is called 1D array. 1d array is also called vector. 
+
+two dimensional array 
+    if array has 2 dimension, it is called two dimensional array. 
+    in 2d array one dimension is horizontal, and second is vertical. 2d array is like table in excel. where horizontal lines are called row and vertical lines are called columns. combination of row and column is called cell. same concept allow applies to 2d array in c language. whenever we try to access/change any value in 2d array, we have to use array name row position and column position.  we need to use 2 loop one for row and one for column. 
+
+---------------------------------------------
+how to create 2d array?
+syntax 
+    datatype array-name[row-size][column-size]
+example 
+    int sales[4][7]; 
+how to take input from user in 2d array?
+scanf("%d",&sales[0][0]); //it will accept input from user and store in 0th row 0th column. 
+
+how to display value from array
+printf("%d",sales[0][0]); //it will accept input from user and store in 0th row 0th column. 

@@ -1,0 +1,271 @@
+1) write a program to convert given days into months and remaining days 
+2) write a program to convert given inches into foot. 
+3) write a program to convert bytes into kilobytes. 
+4) write a program to convert kilometer into meter. 
+5) write a program to convert given inches into foot and remaining inches.
+6) write a program to convert given grams into kilograms and remaining grams.
+
+decision making exercise 
+-----------------------
+simple if  
+--------------------------------
+1) write a program to accept gujarati month number from user. then display name of festival come in given month.  
+2) write a program to accept week day number from user. then display name of day. 
+// input : 1 output : monday 
+// input : 2 output : tuesday 
+// input : 3 output : wednesday
+ 
+
+if else exercise 
+----------------------------------
+1) write a program to find out whether given year is sliver jubilee or not from current year and  marriage year 
+
+2) write a program to find out whether given year is golden jubilee or not from current year and  marriage year 
+
+3) write a program to findout which farm is smaller from two different farm's from given length and width. 
+
+if else ladder 
+
+1) write a program to accept 5 subject marks from user. 
+make total of it  
+find percentage using total 
+and display grade as per below rules 
+------------------------------------
+percentage      Grade 
+>90             Excellent 
+>80             A+ 
+>70             A 
+>60             B 
+>50             C 
+>40             Pass 
+otherwise       Poor 
+
+2) write a program to display Greeting message based upon time given by user 
+6.00 to 11.59
+show message Good Morning
+
+Good Afternoon
+12 to  17
+show message : Good Afternoon 
+
+17.01–22.00 
+show message : Good Evening
+
+otherwise 
+show message :  good night 
+
+3) write a program to findout what kind of fever user has. based upon below criteria 
+input : body temperature as fahrenheit 
+
+temperature       Fever Type
+--------------------------------  
+99.1∘F−100.4∘F	  Low-grade	
+100.6∘F−102.2∘F	  Moderate
+102.3∘F−105.8∘F	  High-grade	
+>106.0∘F	      Hyperpyrexia
+
+4) write a program to findout obesity level of person in india from given height and weight. 
+
+accept weight and height (foot & inch)
+calculate BMI (Body to mass index)
+display Obesity level 
+
+Category	        BMI (kg/m2)	        
+-----------------------------------------------------
+Underweight	        <18.5	           
+Normal	            18.5−22.9	        
+Overweight	        23.0−24.9	        
+Obesity Class I	    25.0−29.9	        
+Obesity Class II	≥30.0	         
+
+switch decision making 
+---------------------------------------------------------------
+1) write a program to accept two number from user. and then do addition or subtraction or multiplication or division based upon user choice. choice should be in 1 to 4 and use switch decision making statement 
+
+2) write a program to accept day of week as number from user. and then display Day and night choghadiya. 
+
+
+nested decision making
+1) write a program to findout which person is heaviest person in 4 person. accept 4 person weight from user 
+
+2) write a program to accept 3 color value from user for red, green & blue 
+if the range of each and every color is in between 0 to 255. display message it is valid color otherwise display message it is not valid color 
+
+
+
+
+make sure input must be in range of 1 to 12. in case other input display message invalid month number. 
+
+loop 
+1) 50 49 48 ...... 1
+2) 2 4 6 8 10 ...... 200
+3) 5 10 15 20 25 ..... 500
+4) 1 2 4 7 11 16 ..... 100
+5) 1 4 9 16 25 36  ..... 1000
+6) 1 8 27 64 ...... 10000
+
+8) write a program to findout  sum of all the even numbers between given start and stop value 
+
+9) write a program to calculate compound interest of given amount, rate, year. 
+
+
+9) write a program to findout whether given number is perfect number or not. these are sum perfect number 
+
+6
+28
+496
+8128
+33550336
+
+what are divisor of 
+-------------------------------
+process 
+1+2+3 =       6 
+1+2+4+7+14 = 28
+
+for loop 
+--------------------------------
+10 x 10 = 100
+10 x 09 = 90
+....
+10 x 01 = 10
+
+2 4 6 8 10 12 14 ..... 100
+10 20 30 40 50 ...... 1000
+a b c d e ...... z 
+Z -  X -  V -  T -  R - A
+
+
+1) write a program to findout given number is prime number or not 
+2) write a program to findout all the days in given month 
+    input : 1
+    output : 1 2 3 .... 31
+
+    input : 2
+    output : 1 2 3 .... 29
+
+    input : 4
+    output : 1 2 3 .... 30
+
+do while 
+-----------------
+1) write a program findout whether given perfect number or not 
+2) write a program to findout whether given number is palindrome number or not 
+3) write a program to findout whether given number is prime number or not 
+
+nested loop 
+1 4 27 256 3125 ........ 10000
+
+
+1
+1 0
+1 0 1
+1 0 1 0
+1 0 1 0 1
+
+
+A 
+A B 
+A B C
+A B C D
+A B C D E 
+
+
+E
+E D
+E D C
+E D C B
+E D C B A
+
+
+1
+2 3
+4 5 6 
+7 8 9 10
+
+
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+1 0 1 0 1
+1 0 1 0
+1 0 1
+1 0
+1
+
+          1
+         2  1
+        2  1  2
+       1  2  1  2
+      1  2  1  2  1
+
+
+array 
+----------
+write a program to accept 6 person weight from user. and display it. use float array and while loop for input and do while for output. 
+
+write a program to accept 10 person income from user. and display it. use long array and while do while loop for input and while for output. 
+
+
+1) write a program to findout coolest day in january in bhavnagar from array which has temperature
+
+2) write a program to findout given value existing in array or not. 
+array : 10 20 30 40 50 
+value : 20
+output : Found at 2nd position 
+
+value : 25 
+output : value not found 
+
+3) write a program are two array is same or not 
+array-1 : 10 20 30 40 50
+array-2 : 10 20 30 40 50
+output : both array are same
+ 
+array-1 : 10 20 30 40 50
+array-2 : 10 20 35 40 50
+output : both array are not same 
+
+
+2) write a program to count consonant in given string. 
+3) write a program to count digits in given string. 
+4) write a program to count vowels, consonant and digits and words in given string 
+
+5) write a program to convert lowercase string into uppercase string. 
+
+6) write a program to convert lowercase letter into uppercase and uppercase letter into lowercase. 
+   line = Good Morning 
+   line2 = gOOD mORNING
+
+7) write a program to copy one string into another string 
+
+2d array
+---------- 
+1) write a program to addition of 2 2d matrix into 3rd matrix and display it. 
+
+2) write a program to transpose matrix into another matrix of float type. take input from user 
+
+3) write a program to do matrix multiplication of 2 matrix into 3rd matrix. take input from user 
+
+function
+----------------------------------------
+
+1) create function that will display addition, subtraction, multiplication, division of given 2 number.
+
+2) create function that will display square root of given number. 
+
+3) create function that return current date. use Library function.
+
+4) create function that return current time. use Library function.
+
+5) create function that return area of triangle using length and base given as input in function 
+
+6) create function that convert fahrenheit into celsius from given fahrenheit. 
+
+recursion
+---------------------
+1) write a program to convert octal number into binary number 
+2) write a program to convert hexadecimal number into binary number
