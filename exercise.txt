@@ -97,12 +97,27 @@ if the range of each and every color is in between 0 to 255. display message it 
 make sure input must be in range of 1 to 12. in case other input display message invalid month number. 
 
 loop 
-1) 50 49 48 ...... 1
-2) 2 4 6 8 10 ...... 200
-3) 5 10 15 20 25 ..... 500
-4) 1 2 4 7 11 16 ..... 100
-5) 1 4 9 16 25 36  ..... 1000
-6) 1 8 27 64 ...... 10000
+1)  50 49 48 ...... 1
+2)  2 4 6 8 10 ...... 200
+3)  5 10 15 20 25 ..... 500
+4)  1 2 4 7 11 16 ..... 100
+5)  1 4 9 16 25 36  ..... 1000
+6)  1 8 27 64 ...... 10000
+
+7)  1 3 6 10 15 21 28 36 45 55 ... 100
+8)  4 8 16 32 64 128 256 ...
+9)  2 6 12 20 30 42 56 72 90 110 ...
+10) 2 3 5 8 12 17 23 30 ... 
+
+other example
+----------------
+Here are 5 more, slightly more challenging than the previous ones:
+
+1. 1 3 7 15 31 63 127 ...
+2. 2 4 8 14 22 32 44 58 ...
+3. 1 2 6 24 120 720 ...
+4. 3 7 13 21 31 43 57 73 ...
+5. 2 5 10 17 26 37 50 65 82 ...
 
 8) write a program to findout  sum of all the even numbers between given start and stop value 
 
