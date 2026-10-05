@@ -124,7 +124,7 @@ Here are 5 more, slightly more challenging than the previous ones:
 9) write a program to calculate compound interest of given amount, rate, year. 
 
 
-9) write a program to findout whether given number is perfect number or not. these are sum perfect number 
+10) write a program to findout whether given number is perfect number or not. these are sum perfect number 
 
 6
 28

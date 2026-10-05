@@ -34,8 +34,7 @@ syntax
 
 for(initialization;relational expression;increment/decrement)
 {
-    //body of loop 
-    
+    //body of loop     
 }
 
 1st time, initialization is done and then condition is checked
