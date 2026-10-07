@@ -150,6 +150,16 @@ for loop
 
 a b c d e ...... z 
 Z -  X -  V -  T -  R - A
+A - C - E - G ..... Z 
+
+extra exercise 
+--------------------------
+
+1) write a program findout whether given perfect number or not 
+2) write a program findout whether given number A Harshad Number no or not. 
+3) write a program findout whether given number A duck Number no or not. 
+4) write a program findout whether given number A Neon Number no or not. 
+5) write a program findout whether given number A spy Number no or not.
 
 
 1) write a program to findout given number is prime number or not 
