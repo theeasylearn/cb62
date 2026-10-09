@@ -1,20 +1,23 @@
 /*
- *
- * *
- * * *
- * * * *
- * * * * *
+ 1 2 3 4 5
+ 1 2 3 4
+ 1 2 3
+ 1 2
+ 1
  */
 #include <stdio.h>
 void main()
 {
-    int i = 1,j;
-    for (j = 1; j <= 5; j++) //outer loop
+    int astrik;
+    int row;
+    row = 5;
+    while (row >= 1) //4
     {
-        for (i = 1; i <= j; i++) //inner loop 
+        for (astrik = 1; astrik <= row; astrik++)
         {
-            printf("*");
+            printf("%d ",astrik);
         }
         printf("\n");
+        row--;
     }
 }
