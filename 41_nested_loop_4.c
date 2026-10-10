@@ -1,8 +1,8 @@
 /*
- *
- * *
- * * *
- * * * *
+     *
+    * *
+   * * *
+  * * * *
  * * * * *
  */
 
@@ -22,7 +22,7 @@ void main()
     //inner for loop 
     for (int astrik = 1; astrik <= 5 - row + 1; astrik++)
     {
-      printf("*");
+      printf(" *");
     }
     printf("\n");
 
