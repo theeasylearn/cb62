@@ -37,10 +37,10 @@ how to store/change value in array at 2nd position?
 age[1] = 50;
 
 how to access/display array
-printf("%d",age[0]);
+printf("%d",age[0]); //25
 
 how to take input from user into array
-scanf("%d",&age[0]);
+scanf("%d",&age[0]); // 50
 
 types of array 
 one dimensional array (1D array)

@@ -229,9 +229,12 @@ E D C B A
 
 array 
 ----------
+
 write a program to accept 6 person weight from user. and display it. use float array and while loop for input and do while for output. 
 
 write a program to accept 10 person income from user. and display it. use long array and while do while loop for input and while for output. 
+
+write a program to findout minimum and maximum value from double static initialized array. 
 
 
 1) write a program to findout coolest day in january in bhavnagar from array which has temperature
