@@ -234,7 +234,21 @@ write a program to accept 6 person weight from user. and display it. use float a
 
 write a program to accept 10 person income from user. and display it. use long array and while do while loop for input and while for output. 
 
-write a program to findout minimum and maximum value from double static initialized array. 
+write a program to findout minimum value from double static initialized array. 
+
+write a program to copy integer array into another array in reverse order 
+a = [10,20,30,40,50]
+b = [50,40,30,20,10]
+
+write a program to store square root of integer array into another double array  
+a = [100,10000,400,500,125]
+b = [10.0, 100.0, 20.0, 22.360679774997898, 11.180339887498949]
+
+write a program to findout and store qube of float array into another float array 
+a = [3,5,10]
+a = [27,125,1000]
+
+
 
 
 1) write a program to findout coolest day in january in bhavnagar from array which has temperature
