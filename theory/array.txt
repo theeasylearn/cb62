@@ -46,8 +46,8 @@ types of array
 one dimensional array (1D array)
     if array has only one dimension then it is called one dimensional array. in short it is called 1D array. 1d array is also called vector. 
 
-two dimensional array 
-    if array has 2 dimension, it is called two dimensional array. 
+two dimensional array (2d array)
+    if array has 2 dimension, then it is called two dimensional array. 
     in 2d array one dimension is horizontal, and second is vertical. 2d array is like table in excel. where horizontal lines are called row and vertical lines are called columns. combination of row and column is called cell. same concept allow applies to 2d array in c language. whenever we try to access/change any value in 2d array, we have to use array name row position and column position.  we need to use 2 loop one for row and one for column. 
 
 ---------------------------------------------
