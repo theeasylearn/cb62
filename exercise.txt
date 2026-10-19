@@ -291,6 +291,7 @@ output : both array are not same
 
 3) write a program to do matrix multiplication of 2 matrix into 3rd matrix. take input from user 
 
+
 function
 ----------------------------------------
 
