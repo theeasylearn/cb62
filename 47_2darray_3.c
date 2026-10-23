@@ -10,9 +10,8 @@ void main()
         {4, 5, 6},
         {7, 8, 9},
     };
-
     int temp;
-     for (int r = 0; r < 3; r++)
+    for (int r = 0; r < 3; r++)
     {
         for (int c = r + 1; c < 3; c++)
         {
