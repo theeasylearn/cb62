@@ -52,7 +52,7 @@ What is functions?
                     function that return value and has no arguments is called with return value without argument function
 
                 4   with return value with argument function 
-                    function that return value and has one or more arguments is called with return value without argument function.
+                    function that return a value and has one or more arguments is called with return value with argument function.
         
 what is pass by value in function. 
     when we pass arguments in function, function always received copy of arguments. it means we change value of arguments, it will not change original variables because function received copy of argument not actual variable that is called pass by value. 

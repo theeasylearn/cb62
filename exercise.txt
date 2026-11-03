@@ -305,7 +305,7 @@ function
 
 5) create function that return area of triangle using length and base given as input in function 
 
-6) create function that convert fahrenheit into celsius from given fahrenheit. 
+6) create function that convert celsius  into fahrenheit from given fahrenheit. 
 
 recursion
 ---------------------
