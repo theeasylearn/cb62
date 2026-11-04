@@ -55,7 +55,7 @@ What is functions?
                     function that return a value and has one or more arguments is called with return value with argument function.
         
 what is pass by value in function. 
-    when we pass arguments in function, function always received copy of arguments. it means we change value of arguments, it will not change original variables because function received copy of argument not actual variable that is called pass by value. 
+    when we pass arguments in function, function always receives copy of arguments. it means we change value of arguments, it will not change original variable's because function has changed copy of variable not actual variable that is called pass by value. 
 
     always function can return at most one value 
 
