@@ -72,7 +72,7 @@ recursion is difficult to understand therefore change. it must last option to so
 
 rules 
 -------------------------------------------------------------------------------
-1) each and every function in recursion will always complete. it will not remain uncomplete. 
+1) each and every function in recursion will always complete. it will not remain incomplete. 
 2) function called in recursion will always complete in reverse order of calling.
 3) each argument we pass in recursion & local variables created in function occupy separate memory location for each function call.
 4) must have some condition(relational expression) which break recursion and stop it 
